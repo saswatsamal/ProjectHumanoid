@@ -8,7 +8,8 @@ Making my dream project true! (Full description after the humanoid)
 
 ## Tasks ✅
     I will be listing my tasks regularly and update it daily. Here's my task list 👇
-- [ ] Day:1- Lisiting the components and softwares required for the project.
+- [x] Day:1- Lisiting the components and softwares required for the project.
+    - All the components and softwares for the first basic prototype are listed [here]()
 - [ ] Day:2- Planing the rough design of the structure, body and locomotion.
 - [ ] Day:3- TBD
 
