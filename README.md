@@ -11,7 +11,8 @@ Making my dream project true! (Full description after the humanoid)
 - [x] Day:1- Lisiting the components and softwares required for the project. ✔
     - All the components and softwares for the first basic prototype are listed [here](https://docs.google.com/spreadsheets/d/1umH1u6VtXe61_nD6P8NMLcW21WuQo1Iu1Kq_EpjzxTw/edit?usp=sharing)
 - [ ] Day:2- Planing the rough design of the structure, body and locomotion.
-    - Designing of the body will take some time. I need a good design and it will take some time. 
+    - Designing of the body will take some time. I need a good design and it will take some time.
+    - It's taking tooooo much time as I'm not good at 3D designing! But the basic prototype will be based on motorized wheels!
 - [ ] Day:3- TBD
 
 ## License
